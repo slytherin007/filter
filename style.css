@@ -1,0 +1,21 @@
+body{
+  background-color:#FFE37E;
+}
+
+#gray,#normal,#red,#rainbow{
+  color:#13030E;
+  background-color:#5E46A6;
+  padding:10px;
+  font-size:20px;
+}
+#gray:hover,#normal:hover,#red:hover,#rainbow:hover
+{
+  background-color:#ed951a;
+  color:#2402cf;
+}
+
+canvas{
+  border:4px solid #691201;
+  height:300px;
+  width:400px;
+}
